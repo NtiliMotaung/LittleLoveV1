@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533401792055",
+    "project_id": "little-love-v1",
+    "storage_bucket": "little-love-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533401792055:android:a7bb457d4754f5da5bd9b2",
+        "android_client_info": {
+          "package_name": "com.example.littlelovev1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533401792055-59ms1bmvhfp6ipl8h96ig0eismp4bekh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrVRhJz7Dm2WZsp4gT3_sXfitXE7Lnxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533401792055-59ms1bmvhfp6ipl8h96ig0eismp4bekh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

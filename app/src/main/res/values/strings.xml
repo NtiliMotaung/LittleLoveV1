@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LittleLoveV1</string>
+    <string name="first_name">first name</string>
+    <string name="join">Join</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="create_account">create account</string>
+    <string name="password">password</string>
+    <string name="confirm_password" />
+    <string name="or">or</string>
+    <string name="sign_in">sing in</string>
+</resources>
